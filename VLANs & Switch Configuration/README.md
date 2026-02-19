@@ -64,3 +64,5 @@ Screenshots included in this folder show:
 - Trunk configuration
 - Router configuration
 - Successful ping test
+
+  ## The Packet Tracer (.pkt) file is included so the lab can be opened and tested.
