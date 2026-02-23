@@ -77,7 +77,7 @@ Successful replies confirmed:
 - VLANs are working
 - Inter-VLAN routing is working
 
-DHCP was successfully configured to automatically assign IP addresses to devices in different VLANs. Devices were able to communicate across VLANs using inter-VLAN routing.
+DHCP was successfully configured to automatically assign IP addresses to devices across different VLANs. Devices were able to communicate across VLANs using inter-VLAN routing.
 
 ## Screenshots
 Screenshots included in this project:
@@ -86,6 +86,8 @@ Screenshots included in this project:
 - DHCP bindings (`show ip dhcp binding`)
 - PC IP assignments
 - Ping tests
+
+## The Packet Tracer (.pkt) file is included so the lab can be opened and tested.
 
 ## Benefits of DHCP
 Automating IP assignment eliminates duplicate IP conflicts and ensures every device receives the correct Gateway and DNS settings automatically. This prevents human error.
